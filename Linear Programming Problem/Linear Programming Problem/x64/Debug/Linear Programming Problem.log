@@ -1,0 +1,19 @@
+﻿  Linear Programming Problem.cpp
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(11,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(11,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(50,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(50,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(69,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(70,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(94,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(111,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(112,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(129,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(144,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(144,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(163,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(164,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(178,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(212,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tusik\source\repos\Linear Programming Problem\Linear Programming Problem\Linear Programming Problem.cpp(213,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Linear Programming Problem.vcxproj -> C:\Users\tusik\source\repos\Linear Programming Problem\x64\Debug\Linear Programming Problem.exe
